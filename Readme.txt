@@ -1,0 +1,1 @@
+He subido la parte de AndroidStudio en un zip porque al subirlo con comandos de git o arrastrando la carpeta al propio repositorio de gitHub, me dice que son demasiados achivos para subirlos de una vez.
